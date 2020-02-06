@@ -1,6 +1,6 @@
 # Raw Text Indexer
 
-Finds the most occuring words in a directory of raw text files. Prints a list of top N most common occurring words, as well as the files and sentences where the words were encountered.
+Finds the most commonly occuring words in a directory of raw text files. Prints a list of top N words, as well as the files and sentences where the words are encountered.
 
 ## Installation
 
