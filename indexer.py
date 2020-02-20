@@ -107,7 +107,7 @@ class RawTextIndexer:
 
     def format_top_n(self, n=10):
         """
-        Picks to N most frequent words and formats the names of files and sentences
+        Picks top N most frequent words and formats the names of files and sentences
         into a list suitable for further output.
         """
         output = []
